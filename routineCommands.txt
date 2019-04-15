@@ -1,0 +1,5 @@
+git clone [repository] /
+
+git status /use after every command if needed to check results
+git branch /show the current branch you have checked out and are editing
+git checkout [branch] /check out a branch to edit
